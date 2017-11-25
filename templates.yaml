@@ -1,0 +1,8 @@
+start_player: Welcome to tic tac toe. You go first.
+start_alexa: Welcome to tic tac toe. I'll go first. {{ position }}.
+player_win: You win!
+player_tie: It was a tie.
+alexa_win: I went {{ position }} and won.
+alexa_tie: I went {{ position }} and it was a tie.
+alexa_move: I'll play {{ position }}. Your move.
+invalid_move: That square is already taken, go again.

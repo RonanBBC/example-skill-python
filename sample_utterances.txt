@@ -1,0 +1,8 @@
+StartIntent to play a game
+StartIntent for a game
+StartIntent for a round
+StartIntent for a match
+
+MoveIntent {position}
+MoveIntent I'll play {position}
+MoveIntent I'll go {position}

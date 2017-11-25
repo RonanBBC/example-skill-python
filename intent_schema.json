@@ -1,0 +1,25 @@
+{
+    "intents": [
+        {
+            "intent": "StartIntent"
+        },
+        {
+            "intent": "MoveIntent",
+            "slots": [
+                {
+                    "name": "position",
+                    "type": "POSITION"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
